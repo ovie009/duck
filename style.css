@@ -98,7 +98,7 @@ nav {
     place-items: center;
     text-decoration: none;
     border-radius: 22.5px;
-    max-width: 120px;
+    width: fit-content;
 }
 
 .hero_image_wrapper {
@@ -214,7 +214,7 @@ h2{
     gap: 20px;
     border-radius: 20px;
     max-width: 400px;
-    height: 150px; 
+    /* height: 150px;  */
     display: flex;
     flex-direction: column;
     align-items: center;
